@@ -599,6 +599,7 @@ body {
 
     .menu_sbor {
         display: flex;
+        position: absolute;
         flex-direction: column;
         width: 100%;
         left: 0;
